@@ -1,0 +1,7 @@
+com\nopcommerce\cucumber\sw6\steps\ElectronicsTestSteps.class
+com\nopcommerce\cucumber\sw6\runner\SanityTestRunner.class
+com\nopcommerce\cucumber\sw6\runner\SmokeTestRunner.class
+com\nopcommerce\cucumber\sw6\steps\Hooks.class
+com\nopcommerce\cucumber\sw6\steps\TopMenuTests.class
+com\nopcommerce\cucumber\sw6\runner\RegressionTestRunner.class
+com\nopcommerce\cucumber\sw6\steps\ComputersTestSteps.class
